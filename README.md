@@ -15,6 +15,12 @@ Windowsのバッチ実行監視システムです。
 Windowsサーバー以外の外部からシェルを実行したかったのですが、DockerでIPのポートをあけてそこからシェルを実行するとWindowsのディフェンダーに不正なアクセス扱いされて、処理をとめられた為です・・・・
 （WindowsDeffenderを停止させる方法もあるようですが、セキュリティ上あぶないので、停止させない方向で実装すすめました）
 
+#　インストール
+https://github.com/QitzPub/QitzBatchExecObserver/tree/master/Builds
+<br>
+以下のファイル群をWindows中にダウンロードし、QitzBatchExecObserver.exeを実行します。
+<br>
+
 # 使い方
 
 <img width="952" alt="スクリーンショット 2022-08-13 16 35 11" src="https://user-images.githubusercontent.com/44431516/184474148-4b15f959-389e-4c0d-b5d5-22c3564cc49c.png"><br>
